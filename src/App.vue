@@ -57,19 +57,9 @@
           width="300" class="maps" style="border:0; " allowfullscreen="" loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
-       
-        
-        
       </div>
-
-
-
-      
     </div>
-
-
   </footer>
-
 </template>
 
 <style scoped>
@@ -136,7 +126,7 @@
       color: white;
       position: absolute;
       width: 1200px;
-      text-align: left;
+      /* text-align: left; */
       margin-left: -86px;
       font-size: 1rem;
 
@@ -174,7 +164,7 @@
     display: flex;
     gap: 10rem;
     /* align-items: flex-end; */
-    margin-left: 20%;
+    /* margin-left: 20%; */
   }
   .alamat{
     display: flex;
@@ -187,6 +177,7 @@
     padding-right: 20px;
   }
   .footer-sosmed{
+    margin-left: 85px;
     margin-top: 20px;
   }
   .maps{

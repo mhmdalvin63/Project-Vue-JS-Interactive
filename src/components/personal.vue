@@ -20,7 +20,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
   <div class="info1">
       <div class="kiri">
-      <h1>Age</h1>
+      <h1>Umur</h1>
       <h1>Alamat</h1>
       <h1>Email</h1>
       <h1>Kontak</h1>
@@ -65,6 +65,9 @@ import SupportIcon from './icons/IconSupport.vue'
 .kiri h1{
   font-size: 30px;
   font-weight: bold;
+}
+.kiri{
+  color: white;
 }
 .kanan h1{
   font-size: 30px;

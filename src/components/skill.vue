@@ -22,17 +22,17 @@ import SupportIcon from './icons/IconSupport.vue'
 
            <h1>HTML</h1>
            <div class="progress">
-           <div class="progress-bar" role="progressbar"          style="width: 80%;" aria-valuenow="25"          aria-valuemin="0" aria-valuemax="100">70%</div>
+           <div class="progress-bar" role="progressbar"          style="width: 70%;" aria-valuenow="25"          aria-valuemin="0" aria-valuemax="100">70%</div>
            </div>
 
            <h1>CSS</h1>
            <div class="progress">
-           <div class="progress-bar" role="progressbar"          style="width: 75%;" aria-valuenow="25"          aria-valuemin="0" aria-valuemax="100">70%</div>
+           <div class="progress-bar" role="progressbar"          style="width: 70%;" aria-valuenow="25"          aria-valuemin="0" aria-valuemax="100">70%</div>
            </div>
 
            <h1>MySQL</h1>
            <div class="progress">
-           <div class="progress-bar" role="progressbar"          style="width: 75%;" aria-valuenow="25"          aria-valuemin="0" aria-valuemax="100">70%</div>
+           <div class="progress-bar" role="progressbar"          style="width: 70%;" aria-valuenow="25"          aria-valuemin="0" aria-valuemax="100">70%</div>
            </div>
 
            <h1>Bootstrap</h1>
