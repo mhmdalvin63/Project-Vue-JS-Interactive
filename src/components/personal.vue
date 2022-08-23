@@ -56,6 +56,7 @@ import SupportIcon from './icons/IconSupport.vue'
   font-size: 20px;
 }
 .nama h2{
+  color: white;
   font-size: 50px;
 }
 .nama b{
